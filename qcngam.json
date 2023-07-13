@@ -1,0 +1,17 @@
+{
+	"full":"ca-app-pub-3940256099942544/1033173712",
+	"fullFrequency":0.1,
+	"pkgName":"gemos.pandabubble.popshooterlegend",
+	"inHouseEnable":true,
+	"inHouseData":[
+		{
+			"url":"https://play.google.com/store/apps/details?id=com.antivirus",
+			"image":"https://www.dropbox.com/s/it9ls8siyxhqp6e/banner.png?dl=1"
+		},
+		{
+			"url":"https://play.google.com/store/apps/details?id=com.antivirus",
+			"image":"https://www.dropbox.com/s/spk14zpbr3kojv2/sc_2.png?dl=1"
+		}
+	]
+  
+}
