@@ -2,7 +2,7 @@
 	"full":"ca-app-pub-3940256099942544/1033173712",
 	"fullFrequency":0.1,
 	"pkgName":"com.tdc.decodeadservice",
-	"inHouseEnable":true,
+	"inHouseEnable":false,
 	"inHouseData":[
 		{
 			"url":"https://play.google.com/store/apps/details?id=com.antivirus",
